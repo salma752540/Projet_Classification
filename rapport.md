@@ -8,7 +8,7 @@ Dans ce projet, l'objectif était de classifier des téléphones en fonction de 
 
 Je n'ai pas de labels pour les données et je souhaite regrouper les téléphones en catégories basées uniquement sur les caractéristiques fournies (RAM, batterie, taille de l'écran, etc.) 
 
-À propos de l'ensemble de données : 
+**À propos de l'ensemble de données :** 
 
 ### **Contexte** : 
 
